@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Anuradha2k21/ead-2-cw2/assets/61109105/c817bf56-1396-466d-8d84-883801bec368)
 
-* Java Spring boot is used for backend and react js is used for fronend. (frontend is very simple)
+* Java Spring boot is used for backend, react js is used for fronend and used MySQL for databases. (frontend is very simple)
 * All services which has 0 as the port number would assign a avilable random port number at runtime.
 * used REST APIs to communicate between microservices.
 * round robin algorithm is used for load balancing.
