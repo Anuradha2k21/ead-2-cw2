@@ -1,4 +1,4 @@
-# Here an image which demonstrate the backend processes
+# Here is an image which demonstrate the backend processes
 ![image](https://github.com/Anuradha2k21/ead-2-cw2/assets/61109105/513a47da-0134-4339-8739-54d768c487d2)
 
 ![image](https://github.com/Anuradha2k21/ead-2-cw2/assets/61109105/c817bf56-1396-466d-8d84-883801bec368)
